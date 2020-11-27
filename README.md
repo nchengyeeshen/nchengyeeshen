@@ -31,6 +31,7 @@ _Oct 2018 - Dec 2018 (3 months, Part-time)_
 * Initially developed using Bootstrap 3. Migrated to Jekyll static site generator before settling on eleventy.js.
 
 **Monash IT Student Research Scheme (2019)**
+_Nov 2019 - Feb 2020 (3 months, Full-time)_
 * 3-month apprenticeship scheme.
 * Project focused on creating an autonomous drone using Parrot ANAFI drones with the pyparrot library.
 * Technical lead to two first-year computer science students.
