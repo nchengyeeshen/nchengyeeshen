@@ -20,7 +20,7 @@ _Feb 2020 - Jul 2020 (5.5 months, Full-time)_
 
 **Peer Assisted Study Session (PASS) Tutor** :: Configura Pacific Sdn Bhd\
 _Oct 2018 - Dec 2018 (3 months, Part-time)_
-* Tutored first semester studnets in FIT1045 Algorithms and Programming Fundamentals in Python.
+* Tutored first semester students in FIT1045 Algorithms and Programming Fundamentals in Python.
 * The unit covered the basics of Python, algorithms, and data structures.
 * Conducted four 1-hour in-person sessions per week.
 
