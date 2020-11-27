@@ -30,6 +30,11 @@ _Oct 2018 - Dec 2018 (3 months, Part-time)_
 * A simple website built using Bulma CSS framework and eleventy.js static site generator.
 * Initially developed using Bootstrap 3. Migrated to Jekyll static site generator before settling on eleventy.js.
 
+**Monash IT Student Research Scheme (2019)**
+* 3-month apprenticeship scheme.
+* Project focused on creating an autonomous drone using Parrot ANAFI drones with the pyparrot library.
+* Technical lead to two first-year computer science students.
+
 ## Education
 
 **Bachelor of Computer Science (C2001)** :: Monash University\
