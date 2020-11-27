@@ -1,5 +1,5 @@
 # Nicholas Cheng Yee Shen
-https://www.linkedin.com/in/nchengyeeshen/
+<https://www.linkedin.com/in/nchengyeeshen/>
 
 ## Experience
 
@@ -8,7 +8,7 @@ _Aug 2020 - Nov 2020 (4 months, Part-time)_
 * Tutored second-year students in FIT2102 Programming Paradigms
 * The unit covered functional programming and constraint based programming paradigms. Students were taught JavaScript, TypeScript, and Haskell.
 * Conducted four 1-hour sessions per week online using Zoom.
-* Notes and slides can be found at https://github.com/nchengyeeshen/fit2102\_pass/
+* Notes and slides can be found at <https://github.com/nchengyeeshen/fit2102_pass/>
 
 **Application Developer (Intern)** :: Configura Pacific Sdn Bhd\
 _Feb 2020 - Jul 2020 (5.5 months, Full-time)_
@@ -26,7 +26,7 @@ _Oct 2018 - Dec 2018 (3 months, Part-time)_
 
 ## Projects
 
-**TrackerTronix** :: https://trackertronix.com/
+**TrackerTronix** :: <https://trackertronix.com/>
 * A simple website built using Bulma CSS framework and eleventy.js static site generator.
 * Initially developed using Bootstrap 3. Migrated to Jekyll static site generator before settling on eleventy.js.
 
@@ -44,8 +44,8 @@ Lecturer | Student Experience Coordinator\
 School of Information Technology (SoIT)\
 Monash University Malaysia\
 +60 3-5515 9662, room 2-4-33\
-lim.wern.han@monash.edu\
-https://www.monash.edu.my/IT/staff/academic/dr-lim-wern-han/
+<lim.wern.han@monash.edu>\
+<https://www.monash.edu.my/IT/staff/academic/dr-lim-wern-han/>
 
 [1]: https://www.monash.edu/it/future-students/industry-experience/industry-based-learning
 [2]: https://www.configura.com/products/cet-designer
