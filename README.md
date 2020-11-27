@@ -12,8 +12,8 @@ _Aug 2020 - Nov 2020 (4 months, Part-time)_
 
 **Application Developer (Intern)** :: Configura Pacific Sdn Bhd\
 _Feb 2020 - Jul 2020 (5.5 months, Full-time)_
-* Industry Based Learning (IBL) placement program.
-* Placement project focused on improvements to CET Designer's IFC import tool.
+* Industry Based Learning (IBL) placement program [[1]].
+* Placement project focused on improvements to CET Designer [[2]] IFC import tool.
 * Worked in a team of 5 (including myself), following Agile methodology.
 * Developed using Configura Magic --- a strongly-typed, single-inheritance programming language from Configura.
 * Responsibilities included developing new features & bugfixes.
@@ -34,8 +34,8 @@ _Oct 2018 - Dec 2018 (3 months, Part-time)_
 
 **Bachelor of Computer Science (C2001)** :: Monash University\
 _Feb 2018 - Present (Expected completion in 2021, Full-time)_
+* CGPA 3.870 [[3]]
 * Advanced Computer Science specialisation
-* CGPA 3.870
 
 ## References
 
@@ -46,3 +46,7 @@ Monash University Malaysia\
 +60 3-5515 9662, room 2-4-33\
 lim.wern.han@monash.edu\
 https://www.monash.edu.my/IT/staff/academic/dr-lim-wern-han/
+
+[1]: https://www.monash.edu/it/future-students/industry-experience/industry-based-learning
+[2]: https://www.configura.com/products/cet-designer
+[3]: https://www.monash.edu/exams/results/gpa/cgpa-calculator?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGY29ubmVjdC1mb3Jtcy5hcHBzLm1vbmFzaC5lZHUlMkZhc3NldHMlMkZmb3JtcyUyRmV4YW1zJTJGZ3BhLXdhbS1jYWxjdWxhdG9yJTJGY2dwYS5waHAmYWxsPTE%3D
