@@ -15,7 +15,7 @@ _Feb 2020 - Jul 2020 (5.5 months, Full-time)_
 * Industry Based Learning (IBL) placement program [[1]].
 * Placement project focused on improvements to CET Designer [[2]] IFC import tool.
 * Worked in a team of 5 (including myself), following Agile methodology.
-* Developed using Configura Magic --- a strongly-typed, single-inheritance programming language from Configura.
+* Developed using Configura Magic &mdash; a strongly-typed, single-inheritance programming language from Configura.
 * Responsibilities included developing new features & bugfixes.
 
 **Peer Assisted Study Session (PASS) Tutor** :: Configura Pacific Sdn Bhd\
