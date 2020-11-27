@@ -34,8 +34,8 @@ _Oct 2018 - Dec 2018 (3 months, Part-time)_
 
 **Bachelor of Computer Science (C2001)** :: Monash University\
 _Feb 2018 - Present (Expected completion in 2021, Full-time)_
-* CGPA 3.870 [[3]]
-* Advanced Computer Science specialisation
+* CGPA 3.870 / WAM 81.138.
+* Advanced Computer Science specialisation.
 
 ## References
 
@@ -49,4 +49,3 @@ https://www.monash.edu.my/IT/staff/academic/dr-lim-wern-han/
 
 [1]: https://www.monash.edu/it/future-students/industry-experience/industry-based-learning
 [2]: https://www.configura.com/products/cet-designer
-[3]: https://www.monash.edu/exams/results/gpa/cgpa-calculator?sq_content_src=%2BdXJsPWh0dHBzJTNBJTJGJTJGY29ubmVjdC1mb3Jtcy5hcHBzLm1vbmFzaC5lZHUlMkZhc3NldHMlMkZmb3JtcyUyRmV4YW1zJTJGZ3BhLXdhbS1jYWxjdWxhdG9yJTJGY2dwYS5waHAmYWxsPTE%3D
